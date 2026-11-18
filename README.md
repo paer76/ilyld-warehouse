@@ -7,7 +7,7 @@ from it by itself.
 ## On the GameShell
 1. Connect it to Wi-Fi (Settings > Wi-Fi).
 2. Open **Warehouse > Add new warehouse...** and type: `github.com/paer76/ilyld-warehouse` (then Enter).
-3. Open it: **Dead Sleep - Channel 13 > I Love You Lets Die**. A downloads it (about 36 MB); A again plays it.
+3. Open it: **Dead Sleep - Channel 13 > I Love You Lets Die**. A downloads it (about 41 MB); A again plays it.
 
 No Warehouse in the menu? Update the launcher (Settings > Update), then reboot.
 
