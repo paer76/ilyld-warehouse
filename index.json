@@ -1,6 +1,8 @@
 {
 	"list":[
-{"title":"Dead Sleep - Channel 13","file":"https://raw.githubusercontent.com/paer76/ilyld-warehouse/master/DeadSleep/index.json","type":"dir"}
+{"title": "Dead Sleep - Channel 13", "file": "https://raw.githubusercontent.com/paer76/ilyld-warehouse/master/DeadSleep/index.json", "type": "dir"},
+{"title": "Themes", "file": "https://raw.githubusercontent.com/paer76/ilyld-warehouse/master/Themes/index.json", "type": "dir"},
+{"title": "Launchers", "file": "https://raw.githubusercontent.com/paer76/ilyld-warehouse/master/Launchers/index.json", "type": "dir"}
 ]
 
 }
